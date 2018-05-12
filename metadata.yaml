@@ -1,0 +1,27 @@
+_repo: A-History-of-Art-for-Beginners-and-StudentsPainting-Sculpture-Architecture_43602
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43602-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waters, Clara Erskine Clement
+    alias: Clement, Clara Erskine
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '4195'
+    url: http://www.gutenberg.org/2009/agents/4195
+description: ''
+gutenberg_issued: '2013-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- History'
+- !lcc 'N'
+title: 'A History of Art for Beginners and Students: Painting, Sculpture, Architecture'
+url: http://www.gutenberg.org/ebooks/43602
